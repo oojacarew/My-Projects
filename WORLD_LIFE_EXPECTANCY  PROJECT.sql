@@ -115,7 +115,7 @@ WHERE t1.`life expectancy` = ''
 
 
 
-#QUESTIONS ON LIFE EXPECTANCY
+#Exploratory analysis
 
 SELECT Country, AVG(`life expectancy`) Avg_life_expectancy       #List of top 10 countries with the highest average life expectancy
 FROM world_life_expectancy
